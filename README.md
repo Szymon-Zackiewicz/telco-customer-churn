@@ -32,7 +32,7 @@ The project uses the Telco Customer Churn dataset, which contains information ab
 Each row represents a customer, and the target variable indicates whether the customer churned.
 
 ## Project Structure
-
+```
 ├── notebooks
 │   ├── 01_eda.ipynb
 │   ├── 02_feature_engineering.ipynb
@@ -53,7 +53,7 @@ Each row represents a customer, and the target variable indicates whether the cu
 │   └── ROC_Curve_comparison.png
 │
 └── README.md
-
+```
 ## Models Used
 
 Three model families were evaluated:
