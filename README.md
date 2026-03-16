@@ -33,26 +33,26 @@ Each row represents a customer, and the target variable indicates whether the cu
 
 ## Project Structure
 
-|- notebooks
-|   |- 01_eda.ipynb
-|   |- 02_feature_engineering.ipynb
-|   |- 03_modeling.ipynb
-|
-|- data
-|    |- raw
-|        |- WA_Fn-UseC_-Telco-Customer-Churn.csv
-|    |- processed
-|        |- EDA-Telco-customer-churn.csv
-|   |- X_train.pkl
-|   |- X_test.pkl
-|   |- y_train.pkl
-|   |- y_test.pkl
-|
-|- figures
-|   |- profit_curve.png
-|   |- ROC_Curve_comparison.png
-|
-|- README.md
+├── notebooks
+│   ├── 01_eda.ipynb
+│   ├── 02_feature_engineering.ipynb
+│   └── 03_modeling.ipynb
+│
+├── data
+│   ├── raw
+│   │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│   ├── processed
+│   │   └── EDA-Telco-customer-churn.csv
+│   ├── X_train.pkl
+│   ├── X_test.pkl
+│   ├── y_train.pkl
+│   └── y_test.pkl
+│
+├── figures
+│   ├── profit_curve.png
+│   └── ROC_Curve_comparison.png
+│
+└── README.md
 
 ## Models Used
 
