@@ -1,6 +1,6 @@
 # README – Telco Customer Churn Prediction
 
-![Model Comparison](figures/ROC_Curve_comparison.png.png)
+![Model Comparison](figures/ROC_Curve_comparison.png)
 
 ## Project Overview
 
