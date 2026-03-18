@@ -1,6 +1,8 @@
 # README – Telco Customer Churn Prediction
 
-![Model Comparison](figures/ROC_Curve_comparison.png)
+![Model_Comparison_image](figures/ROC_Curve_comparison.png)
+
+*Model Comparison*
 
 ## Project Overview
 
@@ -128,7 +130,9 @@ Different decision thresholds are evaluated based on assumed business values:
 
 The optimal threshold maximizes the expected profit of the retention strategy.
 
-![Profit Curve](figures/profit_curve.png)
+![Profit_Curve_image](figures/profit_curve.png)
+
+*Profit Curve*
 
 A profit curve is used to show how different thresholds affect the profitability of retention campaigns.
 
